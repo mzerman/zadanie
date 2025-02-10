@@ -38,6 +38,6 @@ export async function openProductPage(page: Page, SKU: string, language: string,
 }
 
 export const translations = {
-    en: { shop: 'shop', cart: 'cart' },
-    pl: { shop: 'sklep', cart: 'koszyk' }
+    en: { shop: 'shop'},
+    pl: { shop: 'sklep'}
 };
